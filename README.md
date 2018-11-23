@@ -24,3 +24,7 @@
 资讯的排序功能
 
 好友关注功能。
+
+## 页面展示 ##
+
+<div align="center"> <img src="news.png" width="350"/> </div><br>
